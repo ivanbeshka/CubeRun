@@ -1,0 +1,9 @@
+C:\Users\ivanb\RiderProjects\CubeRun\CubeRun\bin\Debug\CubeRun.exe.config
+C:\Users\ivanb\RiderProjects\CubeRun\CubeRun\bin\Debug\CubeRun.exe
+C:\Users\ivanb\RiderProjects\CubeRun\CubeRun\bin\Debug\CubeRun.pdb
+C:\Users\ivanb\RiderProjects\CubeRun\CubeRun\obj\Debug\CubeRun.csprojAssemblyReference.cache
+C:\Users\ivanb\RiderProjects\CubeRun\CubeRun\obj\Debug\CubeRun.Properties.Resources.resources
+C:\Users\ivanb\RiderProjects\CubeRun\CubeRun\obj\Debug\CubeRun.csproj.GenerateResource.cache
+C:\Users\ivanb\RiderProjects\CubeRun\CubeRun\obj\Debug\CubeRun.csproj.CoreCompileInputs.cache
+C:\Users\ivanb\RiderProjects\CubeRun\CubeRun\obj\Debug\CubeRun.exe
+C:\Users\ivanb\RiderProjects\CubeRun\CubeRun\obj\Debug\CubeRun.pdb
